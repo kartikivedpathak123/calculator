@@ -1,5 +1,5 @@
 # calculator
-I created caculator using html,css,javascript.
+I create using html,css,javascript a simple calculator interface and enable basic arithmetic calculations. Users can interact with the calculator by clicking on buttons, and the display area updates dynamically based on user inputs and calculation results.
 
 #calculator
 
